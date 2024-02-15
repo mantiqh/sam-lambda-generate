@@ -25,7 +25,7 @@ done
 
 # Ensure folder_name is provided
 if [ -z "$folder_name" ]; then
-    echo "Usage: npx @mantiqh/lambda-generate -d <folder_name>"
+    echo "Usage: npx sam-lambda-generate -d <folder_name>"
     exit 1
 fi
 

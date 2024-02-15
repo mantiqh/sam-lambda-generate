@@ -1,12 +1,12 @@
 {
   "name": "sam-lambda-generate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "sam-lambda-genrate is a command-line tool designed to simplify the process of generating Lambda-associated files for AWS SAM (Serverless Application Model) projects. It creates a folder structure and copies template files required for Lambda functions.",
   "bin": {
-    "sam_lambda_generate": "./sam_lambda_generate.sh"
+    "sam-lambda-generate": "./sam_lambda_generate.sh"
   },
   "keywords": [
-    "AWS SAM", "Lambda"
+    "AWS SAM", "Lambda", "Generator"
   ],
   "author": "Mantiqh Technologies",
   "license": "MIT",
